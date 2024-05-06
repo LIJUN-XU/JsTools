@@ -1,1 +1,2 @@
 # JsTools
+[clipboard](./clipboard.js)
