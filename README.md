@@ -1,2 +1,2 @@
 # JsTools
-[clipboard](./clipboard.js)
+[clipboard](./clipboard.js) - 复制黏贴
